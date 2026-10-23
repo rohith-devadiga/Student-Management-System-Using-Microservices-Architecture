@@ -1,0 +1,9 @@
+{
+  "python.analysis.extraPaths": [
+    "./auth-service/.venv/Lib/site-packages",
+    "./student-service/.venv/Lib/site-packages",
+    "./course-service/.venv/Lib/site-packages",
+    "./api-gateway/.venv/Lib/site-packages"
+],
+"postman.settings.dotenv-detection-notification-visibility": false
+}
